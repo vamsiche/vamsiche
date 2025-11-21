@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vamsiche
 - 👀 I’m interested in java,python,HTML and CSS
-- 🌱 I’m currently learning java with DSA
+- 🌱 I’m currently learning Python with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vamsichekka7@gmail.com
 - 😄 Pronouns: ...
